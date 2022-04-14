@@ -1,0 +1,76 @@
+Rootical
+Alphabet: “q, w, e, r, t, y, u, I, o, p, a, s, d, f, g, h, j, k, l, z, x, c, v, b, n, m”
+
+
+Determiner
+The = poc
+This = poce 
+That = poca 
+These = pocas
+Those = pocase
+
+Pronouns
+I/Me = rom
+You = romt
+Him = rome
+Her = roma
+Them = roms
+Us/we = romse 
+It = romsa
+
+Possessive pronoun
+My = roe
+Your = roet
+His = roeme
+Her = roema
+Their = roes
+Our = roese
+Its = roesa
+
+Time verbs?
+Is = toru
+Are = tor 
+Were = tour
+Am = tur
+Have been = ture
+Will = turu 
+
+Verbs:
+present ends with on, past ends with e
+example:
+
+Eat = lisp 
+Eating = lispon
+Eaten = lispe
+
+
+If you want to make an adjective out of a verb you add” or” to the end // add an um to the end if it hasnt finished
+
+Live = wert 
+Run = tog
+Kill = bust
+Fight = ralt
+Compute = tonc 
+Code = glot
+Eat = Nam 
+Read = vori
+to have = clost
+to be = mest
+
+kills = bustum
+lives = wertum
+
+Misc:
+
+
+Nouns:
+
+Computer = toncor
+Fighter = raltor
+Killer = bustor
+Runner = rogor
+Code = glot
+Coder = glotor
+Food = nom 
+Book = vor
+life = wort
