@@ -2,7 +2,7 @@
   "main":[
     {"alphabet":"q, w, e, r, t, y, u, I, o, p, a, s, d, f, g, h, j, k, l, z, x, c, v, b, n, m"},
     {"determiner":"Determiner:\nThe = poc\nThis = poce\nThat = poca\nThese = pocas\nThose = pocase"},
-    {"pronoun":"Pronouns:\nI/Me = rom\nYou = romt\nHe/Him = rome\nShe/Her = roma\nThey/Them = roms\nUs/we = romse\nIt = romsa},
+    {"pronoun":"Pronouns:\nI/Me = rom\nYou = romt\nHe/Him = rome\nShe/Her = roma\nThey/Them = roms\nUs/we = romse\nIt = romsa"},
     {"possessive": "Possessive pronoun:\nMy = roe\nYour = roet\nHis = roeme\nHer = roema\nTheir = roes\nOur = roese\nIts = roesa"},
     
   ]
