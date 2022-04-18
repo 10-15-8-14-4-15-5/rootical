@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Rootical Dictionary
 
-You can use the [editor on GitHub](https://github.com/10-15-8-14-4-15-5/rootical/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is the Dictionary for ./ rootical
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### Search Dictionary
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
