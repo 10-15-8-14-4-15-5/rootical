@@ -1,12 +1,44 @@
 ---
 layout: default
 ---
-
+<head>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+  <input type="text" placeholder="Search..">
+</div>
+</head>
 
 
 <body>
-<center><h2>This is broken</h2></center>
-  <p>Can see<p>
-<h1><textarea>Text</textarea></h1>
+<center><h1>Rootical<br>===========<h1></center>
+  <center>
+  <div class="searchbar">
+    <form id="searchform" role="search">
+  <input type="text" id="searchbar" placeholder="Search the rootical dictionary">
+  </form>
+  </div>
+  </center>
 </body>
-
+<style>
+form {
+  width: 300px;
+  height: 44px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+  input {
+  all: unset;
+  font: 16px system-ui;
+  color: #fff;
+  height: 100%;
+  width: 100%;
+  padding: 6px 10px;
+} ::placeholder {
+  color: #fff;
+  opacity: 0.7; 
+}
+</style>
