@@ -58,7 +58,7 @@ to have = clost
 to be = mest
 
 kills = bustum
-lives = wertum
+lives = wortum
 
 Misc:
 
