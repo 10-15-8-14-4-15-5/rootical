@@ -1,6 +1,11 @@
 Rootical
 Alphabet: “q, w, e, r, t, y, u, I, o, p, a, s, d, f, g, h, j, k, l, z, x, c, v, b, n, m”
 
+Suffixes:
+or - "bustor" - "killer"
+um - plural
+e - past
+on - present
 
 Determiner
 The = poc
